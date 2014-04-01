@@ -34,6 +34,8 @@ end
 
 gem 'representable'
 
+gem 'bootstrap-sass'
+
 #sdfsdfs
 
 # Use ActiveModel has_secure_password
