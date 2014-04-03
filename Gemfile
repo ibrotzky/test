@@ -32,9 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-#sdfsdfsd 
-
-#branchchange
+gem 'bootstrap-sass'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
