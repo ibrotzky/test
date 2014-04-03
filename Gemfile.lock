@@ -65,6 +65,8 @@ GEM
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
     orm_adapter (0.5.0)
+    minitest (4.7.5)
+    multi_json (1.9.2)
     polyglot (0.3.4)
     rack (1.5.2)
     rack-test (0.6.2)
@@ -122,7 +124,6 @@ GEM
       json (>= 1.8.0)
     warden (1.2.3)
       rack (>= 1.0)
-
 PLATFORMS
   ruby
 
@@ -134,6 +135,10 @@ DEPENDENCIES
   jquery-rails
   rails (= 4.0.4)
   representable
+  coffee-rails (~> 4.0.0)
+  jbuilder (~> 1.2)
+  jquery-rails
+  rails (= 4.0.4)
   sass-rails (~> 4.0.2)
   sdoc
   sqlite3

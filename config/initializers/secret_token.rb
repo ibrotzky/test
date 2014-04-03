@@ -9,4 +9,5 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
+
 Test::Application.config.secret_key_base = '66462e66c47f0d60b7227c01591c317bb54da3e78e7f09d03cdbeab1aac8f2b38e6ffa418d46f2ed8386a02ddb29eaba1c5c55145780bfdc9e53dd1d2b8b8a9c'

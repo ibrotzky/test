@@ -32,6 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+<<<<<<< HEAD
 gem 'representable'
 
 gem 'bootstrap-sass'
@@ -40,6 +41,10 @@ gem 'devise'
 
 #sdfsdfs
 
+=======
+gem 'bootstrap-sass'
+
+>>>>>>> 22f3a3b528f0e62eebef62f420c58cd959e4c909
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
